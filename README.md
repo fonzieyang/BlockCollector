@@ -6,3 +6,7 @@ BlockCollector
 * easy 2d framework.
 * you can save your game state,It's saved as xml format.
 * It's school homework.(2011)
+
+### Vedio By KKCapture
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMzUwMjkwODUy" frameborder=0 allowfullscreen></iframe>
+
